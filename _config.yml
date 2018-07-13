@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Walt"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a loser."
+  bio              : "I am a lazy loser."
   location         : "Somewhere"
   email            : waltonfy@126.com
   uri              :
@@ -269,3 +269,4 @@ defaults:
       comments: # true
       share: true
       related: true
+      classes: wide

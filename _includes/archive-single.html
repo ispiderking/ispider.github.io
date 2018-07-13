@@ -30,7 +30,7 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-	<a href="{{ post.url }}" >{% if post.thumb %}<img src="{{ post.thumb }}" />{% endif %}</a>
+	{% if post.thumb %}<a href="{{ post.url }}" ><img src="{{ post.thumb }}" /></a>{% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
