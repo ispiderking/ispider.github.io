@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /about.html
+Sitemap: https://ispiderking.github.io/sitemap.xml
