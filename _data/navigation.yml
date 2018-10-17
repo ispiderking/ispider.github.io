@@ -1,12 +1,35 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "English"
+    url: /categories/english/
+  - title: "Français"
+    url: /categories/français/
+  - title: "Deutsch"
+    url: /categories/deutsch/
+  - title: "español"
+    url: /categories/español/
+  - title: "italiano"
+    url: /categories/italiano/
+  - title: "العربية"
+    url: /categories/العربية/
+  - title: "português"
+    url: /categories/português/
+  - title: "tags"
+    url: /tags/
+  - title: "about"
+    url: /about.html
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+EnNav:
+  - title:
+    url:
+    teaser: 
+  - title:
+    url:
+    teaser:
+  - title:
+    url:
